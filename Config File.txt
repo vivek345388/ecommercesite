@@ -1,1 +1,2 @@
-This is a commit from master testing rebase feature
+This is a commit from master testing rebase feature.
+This is another commit from master for testing rebase feature from master itself.
